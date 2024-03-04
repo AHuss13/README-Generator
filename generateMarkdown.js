@@ -68,7 +68,7 @@ ${data.contributing}
 ${data.tests}
 
 ## Contact
-Github: ${data.github}
+Github: github.com/${data.github}
 Email: ${data.email}
 `;
 }
