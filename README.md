@@ -5,6 +5,7 @@
 ## Description
 
 The purpose of this project was to learn how to use node.js and the inquirer package.
+I also learned how to automatically create badges for licenses.
 
 ## Table of Contents
 - [Installation](#installation)
