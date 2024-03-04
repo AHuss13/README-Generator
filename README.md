@@ -36,7 +36,7 @@ Send all the munny!
 There be none on board, Cap'n!
 
 ## Contact
-Github: github.com/AHuss13
+Github: https://github.com/AHuss13
 Email: Adamhuss13@gmail.com
 
 
