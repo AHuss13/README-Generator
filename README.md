@@ -41,3 +41,5 @@ Email: Adamhuss13@gmail.com
 
 
 GitHub repo: https://github.com/AHuss13/README-Generator
+
+Walkthrough: [Walkthrough Video](./Walthrough/README%20Generator%20Walkthrough.mp4)
